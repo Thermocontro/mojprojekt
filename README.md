@@ -1,0 +1,2 @@
+# mojprojekt
+Kod mojego projektu.
